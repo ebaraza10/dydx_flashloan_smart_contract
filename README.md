@@ -1,5 +1,5 @@
 About:
-An IERC20 based smart contract to obtain flashloads with dydx exchange.
+An EVM IERC20 based smart contract to obtain flashloads with dydx exchange.
 
 -Developed in solidity
 -Works with ERC20 tokens
